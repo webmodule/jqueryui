@@ -1,0 +1,9 @@
+{
+	"name": "webmodules/jquery/ui",
+	"webmodules/jquery": {
+		"js": ["jquery-ui.js"]
+	},
+	"webmodules/jquery/ui/min": {
+		"js": ["jquery-ui.min.js"]
+	}
+}

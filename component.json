@@ -1,6 +1,6 @@
 {
   "name": "jquery-ui",
-  "repo": "components/jqueryui",
+  "repo": "webmodules/jqueryui",
   "version": "1.11.4",
   "license": "MIT",
   "scripts": [

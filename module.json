@@ -1,6 +1,6 @@
 {
 	"name": "webmodules/jquery/ui",
-	"webmodules/jquery": {
+	"webmodules/jquery/ui": {
 		"js": ["jquery-ui.js"]
 	},
 	"webmodules/jquery/ui/min": {

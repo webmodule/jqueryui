@@ -1,12 +1,9 @@
 {
-  "name": "webmodules-jquery-ui",
-  "version": "1.11.4",
-  "main": [
-    "jquery-ui.js"
-  ],
-  "ignore": [
-  ],
-  "dependencies": {
-    "webmodules-jquery": ">=1.6"
-  }
+	"name": "webmodules-jquery-ui",
+	"main": ["jquery-ui.js"],
+	"ignore": [],
+	"dependencies": {
+		"webmodules-jquery": ">=1.6",
+		"webmodules-jqueryui": "1.11.42"
+	}
 }
